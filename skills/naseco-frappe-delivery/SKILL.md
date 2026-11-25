@@ -5,6 +5,8 @@ description: Design, build, review, and verify NASECO Frappe and ERPNext custom 
 
 # NASECO Frappe Delivery
 
+Resolve reference links from this skill directory. Use the host agent's available tools to inspect project files and follow its permission model. Specialist skills are optional. When unavailable, continue with these references and identify any verification you cannot perform.
+
 Identify the company objective, operational owner, users, success criteria, and applicable company policies. Treat missing policy as a decision to resolve, especially for approvals, stock, finance, and regulated records.
 
 Choose the requested mode: explore, specify, implement, review, or release. Explore is read-only. Identify the app, repositories, target site and environment, existing conventions, and active OpenSpec change. Preserve existing edits in every repository. Use installed OpenSpec skills for their corresponding modes when available. Otherwise inspect the repository's specifications directly and report any unavailable validation.
